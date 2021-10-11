@@ -1,2 +1,2 @@
 config:
-  infor: “main branch, springcloud-config/config-prod.yaml version=1”
+  infor: "master branch, springcloud-config/config-prod.yaml version=1"
